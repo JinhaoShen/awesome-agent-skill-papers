@@ -8,9 +8,9 @@ We treat agent skills as reusable capability units between foundation-model comp
 
 ## Contents
 
-Browse papers by [📚 Foundations and Surveys](#-foundations-and-surveys), [🧩 Skill Representation and Abstraction](#-skill-representation-and-abstraction), [🔨 Skill Generation and Formation](#-skill-generation-and-formation), [🔁 Skill Deployment and Continual Evolution](#-skill-deployment-and-continual-evolution), [🕸 Ecosystem Management and Orchestration](#-ecosystem-management-and-orchestration), [📊 Evaluation and Benchmarking](#-evaluation-and-benchmarking), [🔒 Security, Safety, and Governance](#-security-safety-and-governance), and [🌐 Applications](#-applications).
+Browse papers by [📚 Exploration and Surveys](#-exploration-and-surveys), [🧩 Skill Representation and Abstraction](#-skill-representation-and-abstraction), [🔨 Skill Generation and Formation](#-skill-generation-and-formation), [🔁 Skill Deployment and Continual Evolution](#-skill-deployment-and-continual-evolution), [🕸 Ecosystem Management and Orchestration](#-ecosystem-management-and-orchestration), [📊 Evaluation and Benchmarking](#-evaluation-and-benchmarking), [🔒 Security, Safety, and Governance](#-security-safety-and-governance), and [🌐 Applications](#-applications).
 
-## 📚 Foundations and Surveys
+## 📚 Exploration and Surveys
 
 | Paper | Date |
 | --- | --- |
@@ -20,6 +20,7 @@ Browse papers by [📚 Foundations and Surveys](#-foundations-and-surveys), [�
 | [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/abs/2602.12430) | 2026-02-12 |
 | [Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality](https://arxiv.org/abs/2602.08004) | 2026-02-08 |
 | [Agent Skills from the Perspective of Procedural Memory: A Survey](https://www.techrxiv.org/doi/abs/10.36227/techrxiv.176857932.25697838/v1) | 2026-01-16 |
+| [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/abs/2601.04748) | 2026-01-08 |
 | [Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills](https://arxiv.org/abs/2512.16301) | 2025-12-18 |
 
 ## 🧩 Skill Representation and Abstraction
